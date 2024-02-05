@@ -1,5 +1,5 @@
 const config = {
-  challenge: false,
+  challenge: true,
   users: {
     // username: 'password', you can add multiple users.
     public_framework: 'a@fHf(14Km',
